@@ -22,7 +22,7 @@
     "split": "~0.2.5",
     "stream-combiner": "^0.2.1",
     "stream-combiner2": "^1.0.2",
-    "tar": "~0.1.17",
+    "tar": "~1.0.0",
     "terminal-menu": "~2.1.1",
     "through2": "^0.6.3",
     "trumpet": "^1.7.0",
